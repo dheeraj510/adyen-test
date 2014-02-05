@@ -22,7 +22,6 @@ describe 'Adyen' do
         :expiry_month => 6, :expiry_year => 2016 }
     )
 
-    binding.pry
     expect(response.authorized?).to be_true
   end
 end
