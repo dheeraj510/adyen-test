@@ -1,0 +1,12 @@
+# Logfile created on 2014-02-05 10:01:30 +0000 by logger.rb/44203
+I, [2014-02-05T10:01:30.527177 #44026]  INFO -- : 0:  adyen (1.4.0) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/adyen-1.4.0.gemspec
+I, [2014-02-05T10:01:30.527518 #44026]  INFO -- : 0:  coderay (1.1.0) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-02-05T10:01:30.527871 #44026]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-05T10:01:30.528179 #44026]  INFO -- : 0:  method_source (0.8.2) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-02-05T10:01:30.528569 #44026]  INFO -- : 0:  slop (3.4.7) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-02-05T10:01:30.528845 #44026]  INFO -- : 0:  pry (0.9.12.6) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-02-05T10:01:30.529116 #44026]  INFO -- : 0:  rspec-core (2.14.7) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-05T10:01:30.529382 #44026]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-05T10:01:30.529643 #44026]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-05T10:01:30.529907 #44026]  INFO -- : 0:  rspec (2.14.1) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-02-05T10:01:30.530117 #44026]  INFO -- : 0:  bundler (1.5.1) from /Users/ryanbigg/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
